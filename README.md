@@ -44,10 +44,5 @@ This work contains information soley from public and open sources.
 This project is licensed under the MIT License. 
 
 
-## Notebook contents (Static HTML Render)
-
-[Contribution guidelines for this project](NumpySignalVariance.html)
-
-
 
 
